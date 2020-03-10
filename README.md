@@ -3,7 +3,8 @@
 
 1. [ http://www.ebsi.co.kr/ebs/lms/lmsx/retrieveSbjtDtl.ebs?sbjtId=S20200000094 ] EBS 자료실에서 단어장을 다운로드 받습니다.
 2. pdf 3페이지에서 표를 드래그하여 전부 복사합니다.
-3. [ https://s2q1ne.github.io/Voca1800_Converter/ ]에 접속하여 변환된 결과를 Quizlet에 붙여넣기 합니다.
+3. [ https://s2q1ne.github.io/Voca1800_Converter/ ]에 접속하여 Quizlet에 등록할 수 있도록 변환합니다.
+4. Quizlet에 접속하여 다음처럼 해주세요. [ 로그인 > 세트 만들기 > 제목/권한 설정 > 데이터 불러오기 > 언어 설정(영어/한국어) > 만들기 ]
 
 
 외부인의 접근을 막기 위해 세트 추가 양식은 아래를 지켜주세요
